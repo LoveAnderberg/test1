@@ -16,11 +16,9 @@ public class Inlämningsuppgift1b {
 		
 		System.out.print("Ange ditt namn: ");
 		namn = stdIn.nextLine();
-	    
-		
+	 
 		System.out.print("Ange din timlön: ");
 		timlon = stdIn.nextFloat();
-		
 		
 		System.out.print("Ange antal timmar: ");
 		timmar = stdIn.nextFloat();
@@ -30,32 +28,7 @@ public class Inlämningsuppgift1b {
 		
 		stdIn.close();
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		
 
 	}
